@@ -61,6 +61,7 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 ~~~
+![Результат](task1.png "Результат")
 ## 2. Битовые операции.
 ~~~
 #include <iostream>
@@ -130,6 +131,7 @@ int main(int argc, char* argv[]) {
 	cout << "bin: " << bitset<64>(result) << endl;
 }
 ~~~
+![Результат](task2.png "Результат")
 ## 3. Модульная арифметика.
 ~~~
 #include <iostream>
@@ -229,6 +231,7 @@ int main() {
     }
 }
 ~~~
+![Результат](task3_1.png "Результат")
 ## 3.2 Модульная арифметика на полиномах GF(2,n).
 ~~~
 #include <iostream>
@@ -298,6 +301,7 @@ int main() {
     cout << "a^(-1) mod M = " << modInverse(2, m) << endl;
 }
 ~~~
+![Результат](task3_2.png "Результат")
 ## 4. Проверка числа на простоту.
 ~~~
 #include <iostream>
@@ -334,6 +338,7 @@ int main()
 	}
 }
 ~~~
+![Результат](task4.png "Результат")
 ## 5. Арифметика больших чисел.
 ~~~
 #include <iostream>
@@ -531,3 +536,4 @@ int main()
     return 0;
 }
 ~~~
+![Результат](task5.png "Результат")
