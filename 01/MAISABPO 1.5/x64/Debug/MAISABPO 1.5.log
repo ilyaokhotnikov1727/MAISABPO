@@ -1,0 +1,8 @@
+﻿  MAISABPO 1.5.cpp
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(30,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(31,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(53,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(54,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(80,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MAISABPO 1.5\MAISABPO 1.5.cpp(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MAISABPO 1.5.vcxproj -> C:\Users\User\source\repos\MAISABPO 1.5\x64\Debug\MAISABPO 1.5.exe
