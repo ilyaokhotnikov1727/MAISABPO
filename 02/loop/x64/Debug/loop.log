@@ -1,0 +1,4 @@
+﻿  loop.cpp
+C:\Users\User\source\repos\loop\loop.cpp(19,11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\loop\loop.cpp(51,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  loop.vcxproj -> C:\Users\User\source\repos\loop\x64\Debug\loop.exe
